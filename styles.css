@@ -31,25 +31,25 @@ h {
     text-align: center;
     font-size: 36px;
     font-weight: bold;
-    color: #6ad68b; /* #5d5b60; */
+    color: #5d5b60; /* #6ad68b; */
 }
 
 .balance.rubles {
     text-align: center;
     font-size: 24px;
     font-weight: bold;
-    color: #0b15d9; /* #5d5b60; */
+    color: #5d5b60; /* #0b15d9; */
     margin-top: 10px;
 }
 
 .currency {
     font-size: 18px;
-    color: #6ad68b; /* #5d5b60; */
+    color: #5d5b60; /* #6ad68b; */
 }
 
 .currency-rub {
     font-size: 18px;
-    color: #0b15d9; /* #5d5b60; */
+    color: #5d5b60; /* #0b15d9; */
 }
 
 @keyframes rollDown {
